@@ -1,0 +1,20 @@
+[
+  {
+    "name": "My Website",
+    "category": "Web",
+    "link": "https://example.com",
+    "image": "https://placehold.co/300x300?text=Website"
+  },
+  {
+    "name": "My App",
+    "category": "App",
+    "link": "https://example.com",
+    "image": "https://placehold.co/300x300?text=App"
+  },
+  {
+    "name": "My Game",
+    "category": "Game",
+    "link": "https://example.com",
+    "image": "https://placehold.co/300x300?text=Game"
+  }
+]
